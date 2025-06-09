@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FT-snow
 - 👀 I’m interested in webdev 
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on projects based on api services 
 - 📫 How to reach me , through my linkedin , kaggle
 - 😄 Pronouns: ...
